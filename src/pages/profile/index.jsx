@@ -22,18 +22,20 @@ class Profile extends React.Component {
             />
             <h1>@jakeduchen</h1>
             <p className="lead text-muted">
-              I currently spend my days working with{' '}
+              I currently spend my days programming{' '}
               <a
                 href="https://en.wikipedia.org/wiki/Automated_guided_vehicle"
                 target="_blank"
               >
                 AGVs
-              </a>.
+              </a>{' '}
+              in the Boston area.
               <br />
-              In my free time I like learning about web and mobile technologies.
+              I like learning about web and mobile technologies.
               <br />
-              If you have any feedback on my writing, projects, or just want to
-              say hi, feel free to drop me a note.
+              If you have any feedback on my writing, projects,
+              <br />
+              or if you just want to say hi, feel free to drop me a note.
             </p>
             <div>
               <a
@@ -53,7 +55,7 @@ class Profile extends React.Component {
             <div className="row">
               <div className="col-lg-12">
                 <h2 className="section-heading">
-                  A few technologies I'm familiar with
+                  A few technologies I'm currently interested in:
                 </h2>
                 <hr className="border-white" />
               </div>
@@ -113,6 +115,32 @@ class Profile extends React.Component {
                   />
                 </div>
               </div>
+              <div className="col-lg-3 col-6">
+                <div
+                  className="service-box"
+                  data-toggle="tooltip"
+                  data-placement="top"
+                  title="Python"
+                >
+                  <i
+                    className="devicon-python-plain-wordmark wow bounceIn"
+                    data-wow-duration="2.0s"
+                  />
+                </div>
+              </div>
+              <div className="col-lg-3 col-6">
+                <div
+                  className="service-box"
+                  data-toggle="tooltip"
+                  data-placement="top"
+                  title="D3.js"
+                >
+                  <i
+                    className="devicon-d3js-plain wow bounceIn"
+                    data-wow-duration="2.0s"
+                  />
+                </div>
+              </div>
             </div>
           </div>
         </section>
@@ -138,6 +166,24 @@ class Profile extends React.Component {
               </div>
             </div>
           </div>
+          <section className="text-center">
+            <p className="lead text-muted">
+              I built this website with
+              <a href="https://github.com/jaxx2104" target="_blank">
+                {' '}
+                jaxx2104
+              </a>
+              {"'s awesome"}
+              <a
+                href="https://github.com/jaxx2104/gatsby-starter-bootstrap"
+                target="_blank"
+              >
+                {' '}
+                gatsby-starter-bootstrap template
+              </a>
+              .
+            </p>
+          </section>
         </section>
         <section id="features">
           <div className="container">
