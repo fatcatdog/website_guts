@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-bootstrap",
-  "description": "Simple starter for Gatsby",
+  "name": "JakesWebsite",
+  "description": "JakeDuchen'sPersonalWebsite",
   "version": "1.9.36",
-  "author": "Futoshi Iwashita <jaxx2104@gmail.com>",
+  "author": "JakeDuchen",
   "dependencies": {
     "gatsby": "^1.9.108",
     "gatsby-link": "^1.6.26",

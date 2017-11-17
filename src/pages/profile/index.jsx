@@ -20,11 +20,20 @@ class Profile extends React.Component {
               className="rounded-circle mx-auto d-block"
               width="120px"
             />
-          <h1>@jakeduchen</h1>
+            <h1>@jakeduchen</h1>
             <p className="lead text-muted">
-              I currenty spend my days working with software and robots.
-            <br />
-              In my free time I like playing with web and mobile technologies.
+              I currently spend my days working with{' '}
+              <a
+                href="https://en.wikipedia.org/wiki/Automated_guided_vehicle"
+                target="_blank"
+              >
+                AGVs
+              </a>.
+              <br />
+              In my free time I like learning about web and mobile technologies.
+              <br />
+              If you have any feedback on my writing, projects, or just want to
+              say hi, feel free to drop me a note.
             </p>
             <div>
               <a
@@ -43,7 +52,9 @@ class Profile extends React.Component {
           <div className="container">
             <div className="row">
               <div className="col-lg-12">
-                <h2 className="section-heading">A few technologies I'm familiar with</h2>
+                <h2 className="section-heading">
+                  A few technologies I'm familiar with
+                </h2>
                 <hr className="border-white" />
               </div>
             </div>
@@ -114,9 +125,7 @@ class Profile extends React.Component {
               </div>
               <div className="col-md-6 text-left">
                 <li>
-                  <a href="https://github.com/fatcatdog">
-                    Github
-                  </a>
+                  <a href="https://github.com/fatcatdog">Github</a>
                 </li>
                 <li>
                   <a href="https://www.linkedin.com/in/jake-duchen-05080753/">
@@ -124,9 +133,7 @@ class Profile extends React.Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://twitter.com/jakeduchen">
-                    Twitter
-                  </a>
+                  <a href="https://twitter.com/jakeduchen">Twitter</a>
                 </li>
               </div>
             </div>
@@ -143,7 +150,6 @@ class Profile extends React.Component {
                   alt=""
                 />
               </div>
-
             </div>
           </div>
         </section>
