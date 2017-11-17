@@ -62,7 +62,7 @@ class Profile extends React.Component {
             <div className="row">
               <div className="col-lg-12">
                 <h2 className="section-heading">
-                  a few technologies I'm currently using:
+                  {"a few technologies I'm currently playing with:"}
                 </h2>
                 <hr className="border-white" />
               </div>
