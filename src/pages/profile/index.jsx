@@ -29,13 +29,20 @@ class Profile extends React.Component {
               >
                 AGVs
               </a>{' '}
-              in the Boston area.
+              in Boston
               <br />
-              I like learning about web and mobile technologies.
+              I used to sell stuff for{' '}
+              <a href="https://apttus.com" target="_blank">
+                Apttus
+              </a>
+              {' and before that '}
+              <a href="https://zocdoc.com" target="_blank">
+                ZocDoc
+              </a>{' '}
               <br />
-              If you have any feedback on my writing, projects,
+              I like learning about web and mobile technologies
               <br />
-              or if you just want to say hi, feel free to drop me a note.
+              Feel free to drop me a note @jakeduchen
             </p>
             <div>
               <a
@@ -55,7 +62,7 @@ class Profile extends React.Component {
             <div className="row">
               <div className="col-lg-12">
                 <h2 className="section-heading">
-                  A few technologies I'm currently interested in:
+                  a few technologies I'm currently using:
                 </h2>
                 <hr className="border-white" />
               </div>
@@ -168,7 +175,11 @@ class Profile extends React.Component {
           </div>
           <section className="text-center">
             <p className="lead text-muted">
-              I built this website with
+              {'I built this website with '}
+              <a href="https://www.gatsbyjs.org/" target="_blank">
+                Gatsby.js
+              </a>
+              {' and '}
               <a href="https://github.com/jaxx2104" target="_blank">
                 {' '}
                 jaxx2104
@@ -179,9 +190,9 @@ class Profile extends React.Component {
                 target="_blank"
               >
                 {' '}
-                gatsby-starter-bootstrap template
+                gatsby-starter-bootstrap
               </a>
-              .
+              {' template.'}
             </p>
           </section>
         </section>
