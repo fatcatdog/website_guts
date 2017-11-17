@@ -22,14 +22,14 @@ class Profile extends React.Component {
             />
             <h1>@jakeduchen</h1>
             <p className="lead text-muted">
-              I currently spend my days programming{' '}
+              {'I currently spend my days programming '}
               <a
                 href="https://en.wikipedia.org/wiki/Automated_guided_vehicle"
                 target="_blank"
               >
                 AGVs
-              </a>{' '}
-              in Boston
+              </a>
+              {' in Boston'}
               <br />
               I used to sell stuff for{' '}
               <a href="https://apttus.com" target="_blank">
