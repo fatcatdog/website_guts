@@ -42,18 +42,11 @@ class Profile extends React.Component {
               <br />
               I like learning about web and mobile technologies
               <br />
-              Feel free to drop me a note @jakeduchen
-            </p>
-            <div>
-              <a
-                ref="twButton"
-                href="https://twitter.com/jakeduchen"
-                className="twitter-follow-button"
-                data-show-count="false"
-              >
-                Follow @jakeduchen
+              Feel free to drop me a note{' '}
+              <a href="https://twitter.com/jakeduchen" target="_blank">
+                @jakeduchen
               </a>
-            </div>
+            </p>
           </div>
         </section>
 
