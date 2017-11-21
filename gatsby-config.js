@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: 'Jakes Website',
-    description: 'Gatsby starter for bootstrap a blog',
-    url: 'https://fatcatdog.github.io/',
+    description: 'Jake Blog and Personal Website.',
+    url: 'https://fatcatdog.github.io',
     author: 'jakeduchen',
     twitter: 'jakeduchen',
   },

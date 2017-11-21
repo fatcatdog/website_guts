@@ -4,10 +4,7 @@
 
 # Gatstrap
 
-Gatsby starter for bootstrap a blog
-
-![](https://i.imgur.com/Qcd3NwR.png)
-
+Jake's Website
 
 ## GatsbyJS v1
 - For v1 version of this starter, check out the [master branch](https://github.com/jaxx2104/gatsby-starter-bootstrap).
@@ -32,4 +29,3 @@ develop
 
 ### Custom Theme
 `/src/layouts/gatsrap.css`
-
