@@ -29,20 +29,22 @@ class Profile extends React.Component {
               >
                 AGVs
               </a>
-              {' in Boston'}
+              {' in Boston.'}
               <br />
-              I used to sell stuff for{' '}
+              {'I used to sell stuff for '}
               <a href="https://apttus.com" target="_blank">
                 Apttus
               </a>
               {' and before that '}
               <a href="https://zocdoc.com" target="_blank">
-                ZocDoc
-              </a>{' '}
+                ZocDoc.
+              </a>
               <br />
-              I like learning about web and mobile technologies
+              I like learning about web and mobile technologies.
               <br />
-              Feel free to drop me a note{' '}
+              I hope this website helps me improve my writing.
+              <br />
+              {'Feel free to drop me a note '}
               <a href="https://twitter.com/jakeduchen" target="_blank">
                 @jakeduchen
               </a>
@@ -55,7 +57,7 @@ class Profile extends React.Component {
             <div className="row">
               <div className="col-lg-12">
                 <h2 className="section-heading">
-                  {"a few technologies I'm currently playing with:"}
+                  {'things I would build if I was better at time management:'}
                 </h2>
                 <hr className="border-white" />
               </div>
@@ -63,83 +65,10 @@ class Profile extends React.Component {
           </div>
           <div className="container">
             <div className="row justify-content-md-center">
-              <div className="col-lg-3 col-6">
-                <div
-                  className="service-box"
-                  data-toggle="tooltip"
-                  data-placement="top"
-                  title="JavaScript"
-                >
-                  <i
-                    className="devicon-javascript-plain wow bounceIn"
-                    data-wow-duration="2.0s"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
-                <div
-                  className="service-box"
-                  data-toggle="tooltip"
-                  data-placement="top"
-                  title="React.js"
-                >
-                  <i
-                    className="devicon-react-original wow bounceIn"
-                    data-wow-duration="2.0s"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
-                <div
-                  className="service-box"
-                  data-toggle="tooltip"
-                  data-placement="top"
-                  title="Ruby"
-                >
-                  <i
-                    className="devicon-ruby-plain wow bounceIn"
-                    data-wow-duration="2.0s"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
-                <div
-                  className="service-box"
-                  data-toggle="tooltip"
-                  data-placement="top"
-                  title="Node.js"
-                >
-                  <i
-                    className="devicon-nodejs-plain-wordmark wow bounceIn"
-                    data-wow-duration="2.0s"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
-                <div
-                  className="service-box"
-                  data-toggle="tooltip"
-                  data-placement="top"
-                  title="Python"
-                >
-                  <i
-                    className="devicon-python-plain-wordmark wow bounceIn"
-                    data-wow-duration="2.0s"
-                  />
-                </div>
-              </div>
-              <div className="col-lg-3 col-6">
-                <div
-                  className="service-box"
-                  data-toggle="tooltip"
-                  data-placement="top"
-                  title="D3.js"
-                >
-                  <i
-                    className="devicon-d3js-plain wow bounceIn"
-                    data-wow-duration="2.0s"
-                  />
-                </div>
+              <div className="col-md-6 text-center">
+                <li>a Google Action for Google's Assistant</li>
+                <li>a React Native app that doesn't stink</li>
+                <li>an app that uses machine learning</li>
               </div>
             </div>
           </div>
