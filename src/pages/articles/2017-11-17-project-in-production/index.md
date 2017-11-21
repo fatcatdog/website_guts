@@ -24,7 +24,7 @@ Recently I was shown a D3.js tutorial and I think it would be pretty cool to do 
 
 -Download Gmail data from one Gmail Account
 
--Try recover my other Gmail account’s password and download that data as well (Google Takeout requires you to be signed into Gmail’s desktop-browser application to use it and my)
+-Try recover my other Gmail account’s password and download that data as well (Google Takeout requires you to be signed into Gmail’s desktop-browser application to use it and I have no idea what that password is)
 
 -Convert these email files into usable format such as .csv or .json
 
@@ -32,7 +32,7 @@ Recently I was shown a D3.js tutorial and I think it would be pretty cool to do 
 
 -Visualize those trends with D3.js
 
-The first thing I needed to do is download my Gmail data using Google Takeout. Anyone can do that with this simple [Google Takeout link](https://takeout.google.com/settings/takeout?pli=1) and a Gmail account
+The first thing I needed to do is download my Gmail data using Google Takeout. Anyone can do that with this simple [Google Takeout](https://takeout.google.com/settings/takeout?pli=1) link and a Gmail account
 
 <strong>Recovering all of your emails from an old Gmail Account</strong>
 
@@ -55,7 +55,7 @@ Now we need convert that .mbox file to a useable format so we can manipulate it.
 
 There are online services and tools you can download to convert .mbox files to more readable formats, but I thought looking for simple scripts that we can read and try understand is preferable so we can learn a little more about this process, and try to avoid a maliciously designed tool/service from stealing our sensitive information.
 
-Macs come with Python pre-installed. If you aren’t using a Mac you’ll have to download it. My machine had Python 2.7.13 installed on it. Syntax might be different if you have a drastically different version. You can check if Python is installed in your terminal by typing python -V
+Macs come with Python pre-installed. If you aren’t using a Mac you’ll have to download it. My machine had Python 2.7.13 installed on it. Syntax might be different if you have a different Python version. You can check if Python is installed in your terminal by typing python -V
 in your terminal. I used [@Claire Willett](https://twitter.com/clairedwillett?lang=en)'s [article](http://www.ripariandata.com/blog/how-to-export-your-gmail-to-excel#comments-outer-wrapper=) as a guide here. I’ve never done anything in Python before but Claire's article offers some pretty basic instructions. If you don’t feel like reading her article, here are the directions I used:
 
 -Create a project directory directory
@@ -115,7 +115,7 @@ Now you have a JSON file!
 
 <strong>Step 2 - Ruby: Reading through, manipulating, and extracting notable information from your .csv file in Ruby</strong>
 
-I guess you can totally step around this section if you comfortable editing your .csv file in Excel, Google Sheets, or whatever other .csv programs there are. I originally learned to program in Ruby and I find manipulating data in Ruby very easy (Yes I am aware I probably use Ruby as a crutch rather than learning more appropriate tools/languages to do this kind of work).
+I guess you can totally step around this section if you're comfortable editing your .csv file in Excel, Google Sheets, or whatever other .csv programs there are. I originally learned to program in Ruby and I find manipulating data in Ruby very easy (Yes I am aware I probably use Ruby as a crutch rather than learning more appropriate tools/languages to do this kind of work).
 
 I wanted to convert my .csv data into some kind of Ruby array or Ruby Hash to more easily play with it. I only had about 4000 emails from the last year of my emails so my inefficient Ruby script can easily do the job.
 
@@ -128,7 +128,7 @@ My Ruby script is very ugly and I’m sure most experienced programmers will fin
 
 -Takes a .json file and turns it into a Ruby hash
 
--A few methods are written to organize some information such as:
+<strong>A few functions are written to organize some information such as:</strong>
 
 -By the second, when emails were sent
 
@@ -158,7 +158,7 @@ Once I had my data in text files, I did some further editing. First of all, I de
 
 <strong>D3.js and D3Plus</strong>
 
-I was initially introduced to D3.js as an easy to use tool to build charts/graphs with code. When it comes to actually using D3.js charts in your React application, it is not easy to use. [Elijah Meeks](https://twitter.com/Elijah_Meeks) details how to implement [D3.js charts into React apps here](https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71)
+I was initially introduced to D3.js as an easy to use tool to build charts/graphs with code. When it comes to actually using D3.js charts in your React application, it is not easy to use. [Elijah Meeks](https://twitter.com/Elijah_Meeks) details how to implement [D3.js charts into React apps here.](https://medium.com/@Elijah_Meeks/interactive-applications-with-react-d3-f76f7b3ebc71)
 
 You can make very cool interactive data visualizations like [this](https://rd3.now.sh/) by [Thibaut Tiberghien](https://twitter.com/tibotiber). D3.js is really a great tool to use for building interactive charts. I was also told by a friend that claimed to have used D3.js for work multiple times, that D3.js has a rather steep learning curve, and for static data representations, a simple image of that D3.js chart does most of the trick. I found a tool called D3Plus (D3plus.org) which basically allows you to create simple D3.js charts without actually knowing any D3.js.
 
@@ -197,16 +197,16 @@ How about who is emailing me?
 <img height="600" src="./image1.png" alt="Who is emailing me ranked by frequency">
 
 
-When I was looking for a job, LinkedIn and ZipRecruiter emailed me a lot. Twitter’s marketing recently paid off, you can follow me  [@jakeduchen](https://twitter.com/jakeduchen).
+When I was looking for a job, LinkedIn and ZipRecruiter emailed me a lot. I wasted hours applying to jobs I wasn't qualified for on ZipRecruiter and those other job websites. Twitter’s marketing recently paid off, you can see my tweets [@jakeduchen](https://twitter.com/jakeduchen).
 
 <strong>Any actions I can take based on all of this?</strong>
 
 I noticed I could easily have missed all of these emails and my life would not have changed. While I was looking for work, I was forced to hand out my personal information to tons of websites and treat every notification like it could me by next job.
 
-I also noticed, my parents had not emailed me in the last year, and I really only had a handful of personal emails from friends. Email clearly is not a common form of communication I use as texting, facebooking, and calling are more daily activities.
+I also noticed, my parents had not emailed me in the last year, and I really only had a handful of personal emails from friends. Email clearly is not as common a form of communication I use compared to texting, facebooking, and phone.
 
-Considering I am no longer looking for a new job, I think a reasonable plan of action is to disable Gmail’s notifications on my phone considering I really don't need their 3 or 4 buzzes in my pocket a day.
+Considering I am no longer looking for a new job, I think a reasonable plan of action is to disable Gmail’s notifications on my phone considering I really don't need their 3 or 4 buzzes in my pocket a day to let me know company X is having a sale.
 
 <strong>Thoughts on the project</strong>
 
-I'm happy I was able to accomplish my goals in a relatively short period of time. I still feel like I don't know any D3.js because D3Plus was so easy to use. I think D3Plus exists exactly for situations like mine today where someone is charged with creating one simple D3.js chart, and if they don't want to spend the time learning/building an exciting/interactive visualization they can just plug in their data to a D3Plus example. Judging by their examples though, they can get pretty sophisticated as well. If you read the whole article, or part of it and just happen to be reading this as well, all feedback is appreciated.
+I'm happy I was able to accomplish my goals in a relatively short period of time. I still feel like I don't know any D3.js because D3Plus was so easy to use. I think D3Plus exists exactly for situations like mine today where someone is charged with creating one simple D3.js chart, and if they don't want to spend the time learning/building an exciting/interactive visualization they can just plug in their data to a D3Plus example. Judging by their examples though, they can get pretty sophisticated as well. If you read the whole article, or part of it, or just happen to be reading this sentence, let me know what you think about my writing. All feedback is appreciated.
