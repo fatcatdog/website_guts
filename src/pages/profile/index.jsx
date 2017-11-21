@@ -103,16 +103,14 @@ class Profile extends React.Component {
               </a>
               {' and '}
               <a href="https://github.com/jaxx2104" target="_blank">
-                {' '}
-                jaxx2104
+                {'jaxx2104'}
               </a>
               {"'s awesome"}
               <a
                 href="https://github.com/jaxx2104/gatsby-starter-bootstrap"
                 target="_blank"
               >
-                {' '}
-                gatsby-starter-bootstrap
+                {' gatsby-starter-bootstrap'}
               </a>
               {' template.'}
             </p>
