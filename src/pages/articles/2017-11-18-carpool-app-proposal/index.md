@@ -11,7 +11,7 @@ categories:
   - Waze Carpool
   - React-Native
   - React
-description: "Plans for carpooling app built with React Native. I also rant about not wanting to own a car and not liking car commercials"
+description: "Plans for carpooling app built with React Native. I also rant about why I like Waze Carpool even though I've never used it, not wanting to own a car, carpooling, and not liking car commercials"
 ---
 
 <img height="600" src="./appimage.png" alt="App built in React Native that looks like it was written by a five year old">
