@@ -28,9 +28,9 @@ I want to build a fully functional carpooling app in React Native. My little twi
 
 <strong>Waze Carpool Looks Dope</strong>
 
-I was rather inspired recently when I downloaded ([Waze’s Carpool](https://www.waze.com/carpool/)) app. From what I understand from the marketing material on their website, they are only up and running in California for now, but plan on expanding to other urban areas in the US.
+I was rather inspired recently when I downloaded [Waze’s Carpool](https://www.waze.com/carpool/) app. From what I understand from the marketing material on their website, they are only up and running in California for now, but plan on expanding to other urban areas in the US.
 
-<strong>What I Love About ([Waze’s Carpool](https://www.waze.com/carpool/)) App</strong>
+<strong>What I Love About [Waze’s Carpool](https://www.waze.com/carpool/) App</strong>
 
 -Waze’s brand is awesome (no one likes sitting in traffic and they try reduce that)
 
