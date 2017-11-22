@@ -1,6 +1,6 @@
 ---
 title: I Think I'm Building a Carpooling App
-date: "2017-11-21"
+date: "2017-11-18T23:46:37.121Z"
 layout: post
 path: "/carpool-app-in-react-native/"
 categories:
@@ -28,9 +28,9 @@ I want to build a fully functional carpooling app in React Native. My little twi
 
 <strong>Waze Carpool Looks Dope</strong>
 
-I was rather inspired recently when I downloaded [Waze’s Carpool](https://www.waze.com/carpool/) app. From what I understand from the marketing material on their website, they are only up and running in California for now, but plan on expanding to other urban areas in the US.
+I was rather inspired recently when I downloaded ([Waze’s Carpool](https://www.waze.com/carpool/)) app. From what I understand from the marketing material on their website, they are only up and running in California for now, but plan on expanding to other urban areas in the US.
 
-<strong>What I Love About [Waze’s Carpool](https://www.waze.com/carpool/) App</strong>
+<strong>What I Love About ([Waze’s Carpool](https://www.waze.com/carpool/)) App</strong>
 
 -Waze’s brand is awesome (no one likes sitting in traffic and they try reduce that)
 
@@ -40,7 +40,7 @@ I was rather inspired recently when I downloaded [Waze’s Carpool](https://www.
 
 -On Waze’s Carpool website, they explain that riders pay something like 60 cents a mile, not to make Waze or the driver money, but to simply pay for the gas driver will be burning
 
--Waze explains why carpooling is eco-friendly, saves driver and saves rider money, and builds a sense of community rather than sustaining the ridiculous, “this is a black car, you are my servant/driver, and I am a posh rider/customer” relationship in community
+-Waze explains why carpooling is eco-friendly, saves driver and saves rider money, and builds a sense of community rather than sustaining the ridiculous, "this is a black car, you are my servant/driver, and I am a posh rider/customer" relationship in community
 
 <strong>Carpooling Does Not Stink</strong>
 

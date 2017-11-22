@@ -1,6 +1,6 @@
 ---
 title:  Build basic D3.js(D3 Plus) Data Visualizations with your Email Data
-date: "2017-11-18"
+date: "2017-11-18T23:46:37.121Z"
 layout: post
 path: "/create-data-visualizations-with-D3PLUS-and-convert-mbox-to-csv-to-json/"
 categories:
