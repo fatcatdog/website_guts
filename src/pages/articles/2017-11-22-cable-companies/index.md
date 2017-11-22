@@ -1,8 +1,8 @@
 ---
 title: Dealing With Spectrum Cable
-date: "2017-11-21"
+date: "2017-11-22"
 layout: post
-path: "/cable-companies-can-stink-sometimes/"
+path: "/cable-companies/"
 categories:
   - cable companies
   - Spectrum Cable
@@ -11,8 +11,9 @@ categories:
   - App Academy
   - New York City
   - splitter
-description: "After calls, appointments, and an identified broken piece of Spectrum Hardware, I was told I was not going to get a refund because I, "Didn't complain enough."
+description: "After calls, appointments, and an identified broken piece of Spectrum Hardware, I was told I was not going to get a refund because I, "Didn't complain enough"
 ---
+
 My parents have an apartment in New York City that I stayed in while taking a developer Bootcamp called [App Academy](https://www.appacademy.io/).
 
 At first, the internet connection was fine. It would go out for a few seconds every hour but nothing more than that. After a few weeks, the internet started going out for hours at a time. During those hours, I would pack up and head to a cafe to work.
@@ -39,7 +40,7 @@ After getting another “sometime between 8:00 AM and 2:00 PM” appointment, th
 
 The Forth Call
 
-I called to cancel Cable to cut our internet bill in half. I was transferred to Spectrum’s “Try not persuade them to cancel and up-sell them new and exciting cable/internet/phone package”. Just a great conversation with Spectrum, “But how are you going to watch TV?”. I was told I would have to go to Spectrum’s store near W 96th st to complete the transaction and not get billed for a $200 piece of hardware.
+I called to cancel Cable to cut our internet bill in half. I was transferred to Spectrum’s “Try not persuade them to cancel and up-sell them new and exciting cable/internet/phone package”. Just a great conversation with Spectrum, “But how are you going to watch TV?”. I was told I would have to go to Spectrum’s store near W 96th St. to complete the transaction and not get billed for a $200 piece of hardware.
 
 The Final Countdown
 
