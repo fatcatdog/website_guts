@@ -13,8 +13,6 @@ categories:
   - splitter
 description: "After calls, appointments, and an identified broken piece of Spectrum Hardware, I was told I was not going to get a refund because I, "Didn't complain enough."
 ---
-
-
 My parents have an apartment in New York City that I stayed in while taking a developer Bootcamp called [App Academy](https://www.appacademy.io/).
 
 At first, the internet connection was fine. It would go out for a few seconds every hour but nothing more than that. After a few weeks, the internet started going out for hours at a time. During those hours, I would pack up and head to a cafe to work.
