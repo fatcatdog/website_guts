@@ -11,7 +11,7 @@ categories:
   - App Academy
   - New York City
   - splitter
-description: "Cable company being a jerk story..."
+description: "Cable company acting like a cable company"
 ---
 
 <img height="200" src="./spectrumbrand.png" alt="Spectrum phone tv internet deal">
@@ -20,7 +20,7 @@ I stayed at an apartment in New York City while taking a developer Bootcamp call
 
 At first, the internet connection was fine. It would go out for a few seconds every hour but nothing more than that. After a few weeks, the internet started going out for hours at a time. During those hours, I would pack up and head to a cafe to work.
 
-Our cable provider was a company called [Spectrum](www.spectrum.com). The owner of the apartment had initially had a different internet provider, but Spectrum had bought that company and was now the company who bills them every month.
+Our cable provider was a company called [Spectrum](www.spectrum.com). The owner of the apartment had initially had a different internet provider, but Spectrum had bought that company.
 
 We were paying about $100 dollars a month for TV and Cable from Spectrum. What was perplexing was that the TV never seemed to lose cable connectivity. The internet on the other hand, was getting progressively worse.
 
