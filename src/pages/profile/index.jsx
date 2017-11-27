@@ -66,9 +66,8 @@ class Profile extends React.Component {
           <div className="container">
             <div className="row justify-content-md-center">
               <div className="col-md-6 text-center">
-                <li>a Google Action for Google's Assistant</li>
-                <li>a React Native app that doesn't stink</li>
-                <li>an app that uses machine learning</li>
+                <li>a Carpooling service app</li>
+                <li>something that uses machine learning</li>
               </div>
             </div>
           </div>
